@@ -1,0 +1,20 @@
+{
+  "name": "Bootstrap",
+  "version": "1.0.0",
+  "description": "부트스트랩은 웹의 제작을 도와주는 HTML, CSS, JS 프레임워크이다.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.42.1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
